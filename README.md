@@ -1,6 +1,6 @@
-### Projects 
+## Projects 
 
-## Buffer Management Tracker
+### Buffer Management Tracker
 Problem Statement: No single source of truth for buffer levels throughout Tesla Megafactory. 
 
 **Actions:** 
